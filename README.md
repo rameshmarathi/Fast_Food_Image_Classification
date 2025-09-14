@@ -52,6 +52,11 @@ README.md → Project documentation
 
 The project compared five pretrained models. DenseNet121 achieved the best overall performance, while MobileNetV2 provided the best trade-off between accuracy and speed, making it suitable for mobile deployment.
 
+📷 Example Output:
+
+<img width="862" height="600" alt="Sc adddd" src="https://github.com/user-attachments/assets/94beba7c-2a8e-40f3-a22b-6c203f5fbef0" />
+<img width="862" height="600" alt="fghghg" src="https://github.com/user-attachments/assets/45c1dd57-3a70-4b19-80c3-d62713222223" />
+
 🌐 Deployment:
 
 The best model is deployed using Streamlit. Users can upload an image, and the app predicts the fast food category in real-time. The project can also be extended for mobile and cloud deployment.
